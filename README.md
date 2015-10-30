@@ -10,4 +10,8 @@
     * [17](/writings/10.17/writing.md)
     * [19](/writings/10.19/writing.md)
     * [21](/writings/10.21/writing.md)
+    * [23](/writings/10.23/writing.md)
+    * [25](/writings/10.25/writing.md)
+    * [27](/writings/10.27/writing.md)
+    * [29](/writings/10.29/writing.md)
 
